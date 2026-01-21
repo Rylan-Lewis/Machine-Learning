@@ -1,5 +1,4 @@
-# Machine Learning
-A Repo of core Machine Learning concepts applied which involves heavy data pre-processing, data analysis, feature engineering, classical ML algorithms and inferences.
+# Machine Learning: A Repo of core Machine Learning concepts applied which involves heavy data pre-processing, data analysis, feature engineering, classical ML algorithms and inferences.
 
 1: Vertebral Column Classification with KNN: This project performs binary classification (Normal vs Abnormal) on the UCI Vertebral Column dataset using K-Nearest Neighbors, including preprocessing, exploratory data analysis, and careful train–test splitting. It evaluates KNN performance across different values of k, training set sizes (learning curves), distance metrics (Euclidean, Manhattan, Minkowski, Chebyshev, Mahalanobis), and weighted voting, reporting error rates and classification metrics.
 
